@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "decodeappserver";
+    $host = "decodeappserver.database.windows.net";
     $user = "decode";
     $pass = "D3c0d3123";
     $db = "decode";
